@@ -1,13 +1,13 @@
-# Diretrizes de Patrocínio - Blox Camp
+# Diretrizes de Parceria - Blox Camp
 
-1. Você pode definir requisitos simples para participar do sorteio, como entrar no seu servidor do Discord ou seguir uma conta no Instagram. Vale lembrar: quanto mais fácil for participar, mais pessoas tendem a entrar, e quanto melhor o prêmio, maior o engajamento.
+1. Você pode propor ações simples dentro da parceria, como convidar membros para o seu servidor, seguir uma página ou participar de alguma atividade. Vale lembrar: quanto mais acessível for a proposta, maior tende a ser o engajamento.
 
-2. A duração do sorteio pode variar entre 1 e 7 dias.
+2. As parcerias podem ter duração variável, de acordo com o tipo de colaboração e o que for combinado entre as partes.
 
-3. Nós não garantimos quantas pessoas entrarão no servidor, apenas quantas serão notificadas. Você pode acompanhar o desempenho de sorteios anteriores no nosso canal de sorteios.
+3. O Blox Camp não garante resultados específicos (como número de membros ou seguidores), apenas a divulgação acordada. Você pode acompanhar o alcance das parcerias anteriores nos canais correspondentes.
 
-4. A mensagem de divulgação será escrita pela nossa equipe. Se quiser incluir um trecho seu (como um slogan ou chamada para ação), é só enviar, analisaremos o texto e, se aprovado, ele será adicionado.
+4. As mensagens de divulgação serão escritas pela nossa equipe. Se quiser incluir um texto próprio (como uma breve descrição ou chamada para ação), é só enviar, analisaremos o conteúdo e, se aprovado, ele será incluído.
 
-5. O Blox Camp pode incluir requisitos extras ou oferecer entradas adicionais para determinados cargos.
+5. O Blox Camp pode oferecer vantagens extras ou condições especiais para determinados projetos ou parceiros.
 
-6. Servidores ou projetos que violem os Termos de Serviço ou as Diretrizes da Comunidade do Discord terão seus sorteios cancelados, sem aviso prévio.
+6. Servidores ou projetos que violem os Termos de Serviço ou as Diretrizes da Comunidade do Discord poderão ter a parceria encerrada sem aviso prévio.
