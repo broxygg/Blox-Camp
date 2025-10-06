@@ -1,4 +1,4 @@
-# Diretrizes de Patrocínio — Blox Camp
+# Diretrizes de Patrocínio - Blox Camp
 
 1. Você pode definir requisitos simples para participar do sorteio, como entrar no seu servidor do Discord ou seguir uma conta no Instagram. Vale lembrar: quanto mais fácil for participar, mais pessoas tendem a entrar, e quanto melhor o prêmio, maior o engajamento.
 
