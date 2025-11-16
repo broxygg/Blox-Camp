@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecionando...</title>
+    <script>
+        window.onload = () => {
+            const params = new URLSearchParams(window.location.search);
+            const id = params.get("id");
+
+            if (id) {
+                const robloxUrl = `roblox://experiences/start?placeId=${id}`;
+                const webUrl = `https://www.roblox.com/games/${id}`;
+
+                let startTime = Date.now();
+                let timeout = setTimeout(() => {
+                    let elapsedTime = Date.now() - startTime;
+                    if (elapsedTime < 2000) { // Se demorou menos que 2s, provavelmente não abriu
+                        window.location.href = webUrl;
+                    }
+                }, 1500);
+
+                window.location.href = robloxUrl;
+
+                // Cancela o timeout se o usuário sair da página (indicando que o Roblox abriu)
+                window.addEventListener("blur", () => clearTimeout(timeout));
+            }
+        };
+    </script>
+</head>
+<body>
+</body>
+</html>
